@@ -1,0 +1,5 @@
+{
+    "numberOfWorkers":4,
+    "queueCapacity":2,
+    "filePath":"./data.json"
+}
