@@ -8,7 +8,7 @@ The transaction_processor designed in the assignment would deal with all the que
         * config contains three parameters in it
         * Workers --> This is the config parameter used for number of parallel processors/workers in go 
         * Capacity --> this is the configurable circular queue size
-        FilePath --> file path , where the json is stored. This is a     static location in the root director. This can be anything like s3 or a remote location , necessary tooling and code hasto be completed for this to be done.
+        FilePath --> file path , where the json is stored. This is a static location in the root director. This can be anything like s3 or a remote location , necessary tooling and code has to be completed for this to be done.
 
    models package -->  the models package contains the needed code for all circular queue  
 
